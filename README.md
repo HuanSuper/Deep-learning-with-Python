@@ -1,1 +1,1 @@
-# Deap-learning-with-Python
+# Deep-learning-with-Python
